@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta-charset-utf-8></meta-charset-utf-8>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>House Store</title>
+    <link rel="stylesheet" type="text/css" href="resources/css/reset.css">
+    <link rel="stylesheet" type="text/css" href="resources/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Creepster" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="webste_frm_codecade.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header>
+        <div class="image-container logo-small">
+            <img src="DSC_0071.JPG" alt="someimage">
+        </div>
+        <div class="image-container logo-big">
+            <img src="" alt="someimage">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Store</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Garden</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Banner -->
+    <div id="banner">
+        <h1>Psyched Skins</h1>
+        <p>Here at Psyched Skins we wanna help you smell great! Finding the perfect scent maybe difficult, but here at Psyched skins we make it easy for you. All of our soaps are handmade using only the best ingredients. Check out what we have to offer!</p>
+    </div>
+
+    <!-- Color Guide -->
+    <div id="soap-guide">
+        <div class="introduction">
+            <h2>Soap quiz</h2>
+            <p>We're committed to helping you find the right soap that fits you.</strong>
+            </p>
+        </div>
+
+        <!-- Red Swatches -->
+        <div class="fifty-two thirty">
+            <div class="information">
+                <h3>Fifty-two thirty</h3>
+                <p>Fifty-two thirty (put info about this soap here)</p>
+                <p>Our base red is </p>
+                <div class="image-container">
+                    <img src="" alt="someimage">
+                </div>
+            </div>
+            <div class="swatches">
+                <h4>Lightness</h4>
+                <div class="swatch lightness">
+                    <div class="color-1"></div>
+                    <div class="color-2"></div>
+                    <div class="color-3"></div>
+                    <div class="color-4"></div>
+                    <div class="color-5"></div>
+                </div>
+                <h4>Saturation</h4>
+                <div class="swatch saturation">
+                    <div class="color-1"></div>
+                    <div class="color-2"></div>
+                    <div class="color-3"></div>
+                    <div class="color-4"></div>
+                    <div class="color-5"></div>
+                </div>
+                <h4>Hue</h4>
+                <div class="swatch hue">
+                    <div class="color-1"></div>
+                    <div class="color-2"></div>
+                    <div class="color-3"></div>
+                    <div class="color-4"></div>
+                    <div class="color-5"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Green Swatches -->
+        <div class="orange cream soda">
+            <div class="information">
+                <h3>orange cream soda</h3>
+                <p>(put info about orange cream soda here)</p>
+                <p>Our base green is )</p>
+                <div class="image-container">
+                    <img src="DSC_0071.JPG" class="image1" alt="someimage">
+                </div>
+            </div>
+            <div class="swatches">
+                <h4>Lightness</h4>
+                <div class="swatch lightness">
+                    <div class="color-1"></div>
+                    <div class="color-2"></div>
+                    <div class="color-3"></div>
+                    <div class="color-4"></div>
+                    <div class="color-5"></div>
+                </div>
+                <h4>Saturation</h4>
+                <div class="swatch saturation">
+                    <div class="color-1"></div>
+                    <div class="color-2"></div>
+                    <div class="color-3"></div>
+                    <div class="color-4"></div>
+                    <div class="color-5"></div>
+                </div>
+                <h4>Hue</h4>
+                <div class="swatch hue">
+                    <div class="color-1"></div>
+                    <div class="color-2"></div>
+                    <div class="color-3"></div>
+                    <div class="color-4"></div>
+                    <div class="color-5"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Blue Swatches -->
+        <div class="Gentleman">
+            <div class="information">
+                <h3>Gentleman</h3>
+                <p>(info abut Gentleman soap here)</p>
+                <p>Our base blue is</p>
+                <div class="image-container">
+                    <img src="" alt="someimage">
+                </div>
+            </div>
+            <div class="swatches">
+                <h4>Lightness</h4>
+                <div class="swatch lightness">
+                    <div class="color-1"></div>
+                    <div class="color-2"></div>
+                    <div class="color-3"></div>
+                    <div class="color-4"></div>
+                    <div class="color-5"></div>
+                </div>
+                <h4>Saturation</h4>
+                <div class="swatch saturation">
+                    <div class="color-1"></div>
+                    <div class="color-2"></div>
+                    <div class="color-3"></div>
+                    <div class="color-4"></div>
+                    <div class="color-5"></div>
+                </div>
+                <h4>Hue</h4>
+                <div class="swatch hue">
+                    <div class="color-1"></div>
+                    <div class="color-2"></div>
+                    <div class="color-3"></div>
+                    <div class="color-4"></div>
+                    <div class="color-5"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <strong>All set? Click below to order.</strong>
+        <p>Most soaps can be delivered to your door within 72 hours. We'll reach out if your soap needs some extra attention, which could delay shipment.</p>
+        <a href="#" class="button">Order My Soap</a>
+    </footer>
+</body>
+
+</html>
